@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="uServer"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/mostafa/CLionProjects/client2/uServer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mostafa/CLionProjects/client2/uServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mostafa/CLionProjects/client2/uServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mostafa/CLionProjects/client2/uServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mostafa/CLionProjects/client2/uServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/mostafa/CLionProjects/client2/uServer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mostafa/CLionProjects/client2/uServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mostafa/CLionProjects/client2/uServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mostafa/CLionProjects/client2/uServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mostafa/CLionProjects/client2/uServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="uServer">
+				<Option output="/home/mostafa/CLionProjects/client2/uServer/cmake-build-debug/uServer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mostafa/CLionProjects/client2/uServer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mostafa/CLionProjects/client2/uServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 uServer"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mostafa/CLionProjects/client2/uServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mostafa/CLionProjects/client2/uServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mostafa/CLionProjects/client2/uServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="uServer/fast">
+				<Option output="/home/mostafa/CLionProjects/client2/uServer/cmake-build-debug/uServer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mostafa/CLionProjects/client2/uServer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mostafa/CLionProjects/client2/uServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 uServer/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mostafa/CLionProjects/client2/uServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mostafa/CLionProjects/client2/uServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mostafa/CLionProjects/client2/uServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/mostafa/CLionProjects/client2/uServer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mostafa/CLionProjects/client2/uServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mostafa/CLionProjects/client2/uServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mostafa/CLionProjects/client2/uServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mostafa/CLionProjects/client2/uServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/mostafa/CLionProjects/client2/uServer/CongetionAvoidance.cpp">
+			<Option target="uServer"/>
+		</Unit>
+		<Unit filename="/home/mostafa/CLionProjects/client2/uServer/DieWithError.cpp">
+			<Option target="uServer"/>
+		</Unit>
+		<Unit filename="/home/mostafa/CLionProjects/client2/uServer/FastRecovery.cpp">
+			<Option target="uServer"/>
+		</Unit>
+		<Unit filename="/home/mostafa/CLionProjects/client2/uServer/PrintUtil.cpp">
+			<Option target="uServer"/>
+		</Unit>
+		<Unit filename="/home/mostafa/CLionProjects/client2/uServer/ProcessRequest.cpp">
+			<Option target="uServer"/>
+		</Unit>
+		<Unit filename="/home/mostafa/CLionProjects/client2/uServer/RandomGenerator.cpp">
+			<Option target="uServer"/>
+		</Unit>
+		<Unit filename="/home/mostafa/CLionProjects/client2/uServer/ReadFile.cpp">
+			<Option target="uServer"/>
+		</Unit>
+		<Unit filename="/home/mostafa/CLionProjects/client2/uServer/ReadInput.cpp">
+			<Option target="uServer"/>
+		</Unit>
+		<Unit filename="/home/mostafa/CLionProjects/client2/uServer/SlowStart.cpp">
+			<Option target="uServer"/>
+		</Unit>
+		<Unit filename="/home/mostafa/CLionProjects/client2/uServer/main.cpp">
+			<Option target="uServer"/>
+		</Unit>
+		<Unit filename="/home/mostafa/CLionProjects/client2/uServer/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

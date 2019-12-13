@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/uClient.dir/main.cpp.o CMakeFiles/uClient.dir/DieWithError.cpp.o CMakeFiles/uClient.dir/ReadInput.cpp.o CMakeFiles/uClient.dir/ProcessRequest.cpp.o CMakeFiles/uClient.dir/PrintUtil.cpp.o  -o uClient 
